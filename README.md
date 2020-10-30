@@ -1,5 +1,5 @@
 # Project Name
-Text to pdf Generator
+Calculator
 
 ## Table of contents
 * [General info](#general-info)
